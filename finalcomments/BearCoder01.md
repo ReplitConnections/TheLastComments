@@ -1,0 +1,7 @@
+# [@BearCoder01](https://replit.com/@BearCoder01)'s Final Comment:
+
+Why would they do that? Replit was at it's peek in the 2018~2019, but then they went down hill very quickly. Seems like they don't wont to be the place for the community, but rather cash in from the big companies. Replit forgets that if this awesome community they build didn't exist that that meant that replit could never be a succesfull company (well till now). Most people who were using replit where students and people actually intressted in (learning) coding, but seeing Replit remove futures that most of these people relied on to learn programming (what they stand for) doesn't sound right to me. Replit is preparing it self for companies to come in and thereby (intentionality of not) neglicting a huge part of their community, where Replit relied on. They also made some good move's one of them is giving basic AI to people without a paid plan, but that doesn't weight-out the bad descions they made. Replit is forgeting what they ment for us the community and how to could even exits. If Replit keeps making these bad decisions, it will only be a matter of time.
+
+# Also posted:
+
+[@JustCoding123](https://replit.com/@JustCoding123) What next? Removing the IDE and call that a future.

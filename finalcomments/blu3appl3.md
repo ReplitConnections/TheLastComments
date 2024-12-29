@@ -1,0 +1,3 @@
+# [@blu3appl3](https://replit.com/@blu3appl3)'s Final Comment:
+
+I joined replit a few months ago, and I have had a great time, It's sad to see replit start to burn and crash...

@@ -1,0 +1,3 @@
+# [@1Tim](https://replit.com/@1Tim)'s Final Comment:
+
+I really like the idea of an online community where you can host and share your projects so other community members can execute them directly in their browser and like / comment on them. It not only motivates poeple to code, but also makes development, deploying and collaboration so much easier. It's sad to see that replit is going into an entirely different direction now. The removal of replit talk (an integrated community for asking questions about code), executable cover pages, repl.co instant 24/7 hosting and comments shows how replit is transitioning from a community to a "normal" hosting platform

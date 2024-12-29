@@ -1,0 +1,3 @@
+# [@GoodVessel92551](https://replit.com/@GoodVessel92551)'s Final Comment:
+
+The comment section was more than just comments it was a place for feedback, help, encouragement and somewhere to tell the developer about bugs that you randomly find when run the code. Without these, one of the key features for me with Replit, which is communicating with users, is gone. I really hope that Replit can turn itself around in 2024 and make people excited for new features.
